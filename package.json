@@ -7,9 +7,13 @@
   "scripts": {
     "test": "jest"
   },
-  "jest": {
-  },
+  "jest": {},
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "@types/jest": "^23.3.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.3"
   }
 }
